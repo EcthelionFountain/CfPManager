@@ -1,4 +1,3 @@
-
 namespace Scraper
 {
 
@@ -9,6 +8,8 @@ namespace Scraper
         string Location,
         List<string> Topics,
         string Descirption,
-        DateTime CreationDate
+        DateTime CreationDate,
+        string Contact,
+        DateTime Deadline
     );
 }
